@@ -7,7 +7,7 @@
 
 button, summary {
 	cursor: pointer;
-}
+} 
 
 
 
@@ -21,14 +21,18 @@ button, summary {
 	--color-text:#111;
 	--color-background:#eee;
 }
+nav{
+	display:flex;
+}
 
+nav img{
+	width:15em;
+}
 
+body img{
+	width:15em;
+}
+body{
+	align-items: center;
 
-
-
-/****************/
-/* JOUW STYLING */
-/****************/
-
-/* jouw code */
-
+}
