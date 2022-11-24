@@ -114,12 +114,11 @@ https://www.nbthieves.com
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | student 1 - Lizzy| student 2 - Bahaa  | student 3 - Kelly Mae 
+  | ---              | ---                | ---                   
+  | dit bespreken    | en dit             | Hoe kan ik een video toevoegen in mijn html?       
+  | en dat ook nog   | dit als er tijd is | Waarom linkt mijn css niet op beide pagina's?
+  | ...              | ...                | Hoe zorg ik ervoor dat mijn header als hamburgermenu krijg?
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
