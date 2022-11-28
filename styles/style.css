@@ -16,6 +16,7 @@ button, summary {
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	--font: Woodford Bourne Regular, sans serif;
 }
 nav{
 	display:flex;
