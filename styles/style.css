@@ -16,7 +16,7 @@ button, summary {
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
-	--font: Woodford Bourne Regular, sans serif;
+	--font: 
 }
 nav{
 	display:flex;
@@ -31,6 +31,10 @@ body img{
 	width:15em;
 }
 body{
-	align-items: center;
+	align-items: center
+}
 
+video{
+	width: 80%;
+	display: block;
 }
