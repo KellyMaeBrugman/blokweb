@@ -23,12 +23,17 @@ summary {
 :root {
 	/* startje */
 	--color-text: #111;
-	--color-background: #eee;
-	--font:
+	--background-color-header: rgb(255, 255, 255);
+	--background-color-body: rgb(245, 245, 245);
 }
 
 body {
 	font-family: 'NanumGothic';
+	background-color: var(--background-color-body);
+}
+
+header{
+	background-color: var(--background-color-header);
 }
 
 nav {
