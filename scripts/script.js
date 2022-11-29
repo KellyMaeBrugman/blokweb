@@ -1,12 +1,10 @@
 // JavaScript Document
 console.log("hi");
 
-var section = document.querySelectorAll('section');
-var video = document.querySelector('video');
+var videos = document.querySelectorAll('video');
 
-
-
-section.forEach(item => 
-    item.addEventListener('click', () => {
-    video.play();
-}));
+videos.forEach(video => 
+    video.addEventListener('click', function() {
+        video.play();
+    })
+);
