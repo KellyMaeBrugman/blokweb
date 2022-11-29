@@ -1,40 +1,83 @@
 /**************/
 /* CSS REMEDY */
 /**************/
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
 }
 
-button, summary {
+button,
+summary {
 	cursor: pointer;
-} 
+}
+
+@font-face {
+	font-family: 'NanumGothic';
+	src: url('../fonts/NanumGothic-Regular.ttf');
+}
 
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
 :root {
 	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
-	--font: 
-}
-nav{
-	display:flex;
+	--color-text: #111;
+	--color-background: #eee;
+	--font:
 }
 
-nav img{
-	width:15em;
+body {
+	font-family: 'NanumGothic';
+}
+
+nav {
+	display: flex;
+}
+
+nav img {
+	width: 15em;
 	height: 3em;
 }
 
-body img{
-	width:15em;
+h1{
+	text-align: center;
+	font-size: 1.5rem;
 }
-body{
+
+h2{
+	text-align: center;
+	font-size: 1rem;
+	padding: .5rem;
+}
+
+h3{
+	text-align: center;
+	font-size: .8rem;
+	margin: 2rem;
+}
+
+button{
+	margin: auto;
+	display: block;
+}
+
+main img {
+	margin: auto;
+	display: block;
+	width: 15em;
+}
+
+body {
 	align-items: center
 }
 
-video{
-	width: 80%;
+section {
+	margin: 3rem
+}
+
+video {
+	width: 100%;
+	margin: auto;
 	display: block;
 }
