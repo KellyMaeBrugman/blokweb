@@ -30,6 +30,7 @@ summary {
 body {
 	font-family: 'NanumGothic';
 	background-color: var(--background-color-body);
+	align-items: center
 }
 
 header {
@@ -71,10 +72,6 @@ main img {
 	margin: auto;
 	display: block;
 	width: 15em;
-}
-
-body {
-	align-items: center
 }
 
 section {
