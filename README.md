@@ -20,7 +20,7 @@ Kelly Mae Brugman
   #### Je startniveau:
 Blauw
   #### Je focus:
-Responsive 
+Surface plane 
 </details>
 
 
@@ -123,10 +123,7 @@ https://www.nbthieves.com
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Nina heeft mij geholpen met het toevoegen van een video in mijn website.
 
 </details>
 
@@ -214,14 +211,7 @@ https://www.nbthieves.com
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  De tweede voortgang bestond uit de hele klas inplaats van kleine groepjes. Voor de klas laten zien wat je hebt en waar je nu bent om feedback te krijgen.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
