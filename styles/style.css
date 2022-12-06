@@ -36,39 +36,117 @@ body {
 
 header {
 	background-color: var(--background-color-header);
-	position: sticky;
-	top: 0;
-}
-
-nav {
 	display: flex;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    width: 100%;
+	height: 5em;
+    position: fixed;
 }
 
-nav img {
-	width: 15em;
-	height: 3em;
+header img {
+	width: 12em;
+	height: 1.8em;
+	margin-left: 3em;
+	margin-top: 1.5em;
+}
+
+nav ul {
+	transform: translateX(-300%);
+}
+
+header nav button {
+	display: grid;
+	place-items: center;
+	border-radius: 50%;
+	border: none;
+	margin-top: 2em;
+	margin-right: 1em;
+}
+
+header nav button span {
+	grid-row-start: 1;
+	grid-column-start: 1;
+	width: 3em;
+	height: .2em;
+	background-color: #111;
+	transition-duration: .5s;
+}
+
+header nav button span:nth-of-type(1){
+	transform: translateY(-.4em);
+}
+
+header nav.menu-open button span:nth-of-type(1){
+	transform: rotate(45deg) scalex(1.25);
+}
+
+header nav button span:nth-of-type(2){
+	transform: none;
+}
+
+header nav.menu-open button span:nth-of-type(2){
+	transform: rotate(135deg) scalex(1.25);
+}
+
+header nav button span:nth-of-type(3){
+	transform: translateY(.4em);
+}
+
+header nav.menu-open button span:nth-of-type(3){
+	transform: rotate(135deg) scalex(1.25);
+}
+
+header nav ul {
+	z-index: -666;
+	position: fixed;
+	top: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100vw;
+	height: 100vh;
+	left: 0;
+	margin: 0px;
+	background-color: #fff;
+	padding: 0;
+	transform: translateX(-100%);
+	transition: transform .3s;
+}
+
+header nav ul li {
+	list-style-type: none;
+	text-align: center;
+	padding: 10px;
+	font-size: 23px;
+}
+
+header nav.menu-open ul {
+	transform: translatex(0%);
+}
+
+main{
+	margin-top: 10em;
+}
+
+h1, h2, h3{
+	text-align: center;
 }
 
 h1 {
-	text-align: center;
 	font-size: 1.5rem;
 }
 
 h2 {
-	text-align: center;
 	font-size: 1rem;
 	padding: .5rem;
 }
 
 h3 {
-	text-align: center;
 	font-size: .8rem;
 	margin: 2rem;
-}
-
-button {
-	margin: auto;
-	display: block;
 }
 
 main img {
