@@ -91,7 +91,7 @@ https://www.nbthieves.com
   <img src="readme-images/schets_video" width="375px" alt="Breakdown van de video pagina">
 
   ### de music pagina: 
-  <img src="./readme-images/schets_music" width="375px" alt="Breakdown van de music pagina">
+  <img src="readme-images/schets_music" width="375px" alt="Breakdown van de music pagina">
 
 </details>
 
