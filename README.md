@@ -87,14 +87,11 @@ https://www.nbthieves.com
 <details>
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
-  ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  ### de video pagina: 
+  <img src="readme-images/schets_video" width="375px" alt="Breakdown van de video pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### de music pagina: 
+  <img src="readme-images/schets_music" width="375px" alt="Breakdown van de music pagina">
 
 </details>
 
