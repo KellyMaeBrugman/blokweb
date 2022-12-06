@@ -13,8 +13,8 @@ summary {
 }
 
 @font-face {
-	font-family: 'NanumGothic';
-	src: url('../fonts/NanumGothic-Regular.ttf');
+	font-family: 'WoodfordBourne';
+	src: url('../fonts/woodford-bourne/WoodfordBournePRO-Thin.otf');
 }
 
 /*********************/
@@ -28,7 +28,8 @@ summary {
 }
 
 body {
-	font-family: 'NanumGothic';
+	font-family: 'WoodfordBourne';
+	color: var(--color-text);
 	background-color: var(--background-color-body);
 	align-items: center
 }
