@@ -15,10 +15,11 @@ summary {
 }
 
 :root {
-	/* startje */
 	--color-text: #111;
 	--background-color-header: rgb(255, 255, 255);
 	--background-color-body: rgb(245, 245, 245);
+	--background-color-footer-1: rgb(35, 35, 35);
+	--background-color-footer-2: rgb(224, 224, 224);
 }
 
 body {
@@ -131,7 +132,7 @@ main{
 	margin-top: 10em;
 }
 
-h1, h2, h3{
+h1, h2, h3, h4{
 	text-align: center;
 }
 
@@ -171,4 +172,29 @@ section {
 
 video {
 	width: 100%;
+}
+
+footer section{
+	display: flex;
+}
+
+footer section img{
+	width: 1em;
+}
+
+footer section:nth-of-type(1){
+	background-color: var(--background-color-footer-1);
+	margin: 0;
+}
+
+footer section:nth-of-type(2){
+	background-color: var(--background-color-footer-2);
+	margin: 0;
+}
+
+footer section:nth-of-type(3){
+	background-color: var(--background-color-header);
+	margin: 0;
+	font-size: .6rem;
+	padding-bottom: 4em;
 }
