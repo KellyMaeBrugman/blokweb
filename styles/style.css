@@ -1,6 +1,3 @@
-/**************/
-/* CSS REMEDY */
-/**************/
 *,
 *::after,
 *::before {
@@ -17,9 +14,6 @@ summary {
 	src: url('../fonts/woodford-bourne/WoodfordBournePRO-Thin.otf');
 }
 
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
 :root {
 	/* startje */
 	--color-text: #111;
@@ -61,8 +55,8 @@ header nav button {
 	place-items: center;
 	border-radius: 50%;
 	border: none;
-	margin-top: 2em;
-	margin-right: 1em;
+	margin-top: 3em;
+	margin-right: 2em;
 }
 
 header nav button span {
@@ -70,7 +64,7 @@ header nav button span {
 	grid-column-start: 1;
 	width: 3em;
 	height: .2em;
-	background-color: #111;
+	background-color: var(--color-text);
 	transition-duration: .5s;
 }
 
@@ -110,7 +104,7 @@ header nav ul {
 	height: 100vh;
 	left: 0;
 	margin: 0px;
-	background-color: #fff;
+	background-color: var(--background-color-header);
 	padding: 0;
 	transform: translateX(-100%);
 	transition: transform .3s;
@@ -121,6 +115,11 @@ header nav ul li {
 	text-align: center;
 	padding: 10px;
 	font-size: 23px;
+}
+
+header nav ul li a{
+	text-decoration: none;
+	color: var(--color-text);
 }
 
 header nav.menu-open ul {
