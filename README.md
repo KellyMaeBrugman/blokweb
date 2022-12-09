@@ -7,9 +7,6 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
 
-
-
-
 ## Jij
 
 <details open>
@@ -22,9 +19,6 @@ Blauw
   #### Je focus:
 Surface plane 
 </details>
-
-
-
 
 
 ## Je website
@@ -232,15 +226,16 @@ https://www.nbthieves.com
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
-
-
-
-
 ## Bronnenlijst
 
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
-  
+
+  Bahaa Salaymeh
+  Nina Vens
+  Eva Boogaard
+  Berry Nieskens
+
   1. bron 1
   2. bron 2
   3. ...
