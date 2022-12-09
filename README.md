@@ -31,11 +31,13 @@ https://www.nbthieves.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Music pagina Nothing But Thieves 
+  
   <img src="readme-images/sc1.png" width="375px" alt="Screenshot 1 van music pagina">
   <img src="readme-images/sc2.png" width="375px" alt="Screenshot 2 van music pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Video pagina Nothing But Thieves
+
   <img src="readme-images/sc3.png" width="375px" alt="Screenshot 3 van video pagina">
   <img src="readme-images/sc4.png" width="375px" alt="Screenshot 4 van video pagina">
  
