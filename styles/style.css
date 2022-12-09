@@ -20,6 +20,8 @@ summary {
 	--background-color-body: rgb(245, 245, 245);
 	--background-color-footer-1: rgb(35, 35, 35);
 	--background-color-footer-2: rgb(224, 224, 224);
+	--background-color-hover: rgb(52, 78, 229);
+	--color-text-hover: rgb(255, 255, 255);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -165,6 +167,13 @@ h3 {
 	margin: 2rem;
 }
 
+main a:hover{
+	background-color: var(--background-color-hover);
+	color: var(--color-text-hover);
+	transition: 1s;
+	border-color: var(--background-color-hover);
+}
+
 main img {
 	margin: auto;
 	display: block;
@@ -177,7 +186,6 @@ main section a{
 	text-align: center;
 	background-color: var(--background-color-header);
 	padding: 1em;
-	
 	border-radius: .5em;
 	border: solid;
 	margin-left: 3em;

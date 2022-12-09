@@ -11,7 +11,7 @@ videos.forEach(video =>
         } else { // anders (video speelt dus wel)
             video.pause(); // pauzeer video
         }
-    }
+    } 
 ));
 
 // voor het navigatie menu
