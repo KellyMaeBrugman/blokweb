@@ -15,11 +15,21 @@ summary {
 }
 
 :root {
-	--color-text: #111;
+	--color-text: rgb(0, 0, 0);
 	--background-color-header: rgb(255, 255, 255);
 	--background-color-body: rgb(245, 245, 245);
 	--background-color-footer-1: rgb(35, 35, 35);
 	--background-color-footer-2: rgb(224, 224, 224);
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+	--color-text: rgb(255, 255, 255);
+	--background-color-header: rgb(74, 74, 74);
+	--background-color-body: rgb(0, 0, 0);
+	--background-color-footer-1: rgb(74, 74, 74);
+	--background-color-footer-2: rgb(111, 111, 111);
+	}
 }
 
 body {
@@ -163,12 +173,13 @@ main img {
 
 main section button{
 	color: var(--color-text);
-	font-weight: 1em;
 	background-color: var(--background-color-header);
 	padding: 1em;
 	padding-left: 2em;
 	padding-right: 2em;
 	border-radius: 1em;
+	margin: auto;
+	display: block;
 }
 
 main section button a{
