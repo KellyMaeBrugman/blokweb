@@ -42,7 +42,8 @@ https://www.nbthieves.com
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/sc3.png" width="375px" alt="Screenshot 3 van video pagina">
+  <img src="readme-images/sc4.png" width="375px" alt="Screenshot 4 van video pagina">
  
 </details>
 
