@@ -171,24 +171,18 @@ main img {
 	width: 15em;
 }
 
-main section button{
+main section a{
 	color: var(--color-text);
+	text-decoration: none;
+	text-align: center;
 	background-color: var(--background-color-header);
 	padding: 1em;
-	padding-left: 2em;
-	padding-right: 2em;
-	border-radius: 1em;
-	margin: auto;
+	
+	border-radius: .5em;
+	border: solid;
+	margin-left: 3em;
+	margin-right: 3em;
 	display: block;
-}
-
-main section button a{
-	text-decoration: none;
-	color: var(--color-text);
-}
-
-main section button img:last-of-type{
-	width: 2em;
 }
 
 main section ol li{	
