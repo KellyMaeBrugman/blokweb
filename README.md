@@ -98,9 +98,6 @@ https://www.nbthieves.com
 </details>
 
 
-
-
-
 ## Voortgang 1 (week 2)
 
 <details>
@@ -136,26 +133,16 @@ https://www.nbthieves.com
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Tijdens deze voortgang heb ik mijn website laten zien aan de docent waarop hij mij feedback kon geven.
+  Hier hebben wij besproken hoe ver ik was en wat ik nog moet doen.
 
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  Er waren een aantal dingen die niet lukten bij mij waar ik hulp om heb gevraagd zoals bijvoorbeeld de menubalk die zich heel raar gedraagde.
+  Ook had ik een vraag over hoe ik de footer zou moeten maken. (hoe moet de opmaak eruit zien in de html, hoe moet ik het maken)
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  Aan het einde van het gesprek wist ik weer een beetje welke kant ik op moet gaan als het gaat om voortgang en welke dingen er sowiezo nog moeten gebeuren om een voldoende te halen.
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  Hierna heeft Eva (studentassistent) mij ook nog geholpen met een paar kleine dingen.
 
 </details>
 
@@ -206,19 +193,17 @@ https://www.nbthieves.com
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Tijdens de derde voortgang moesten wij weer de site laten zien op het grote scherm om de laatste paar dingen af te spreken van wat er nog moet gebeuren om het te laten voldoen aan de surface plane en hoe ik het nog toegankelijker kan maken.
 
-
-  ### Agenda voor meeting
-  De tweede voortgang bestond uit de hele klas inplaats van kleine groepjes. Voor de klas laten zien wat je hebt en waar je nu bent om feedback te krijgen.
+  Hierbij hebben wij afgesproken om de volgende dingen van de surface plane toe te voegen:
+  - Menu tab baar maken
+  - Animatie in het menu
+  - Dark mode
+  - Hover op de button
+  - 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Na afloop kwam het er op neer dat ik goed opweg ben maar dat er nog een aantal dingen moeten gebeuren als het gaat om styling en toegankelijkheid.
 
 </details>
 
@@ -255,9 +240,7 @@ https://www.nbthieves.com
 
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
-
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
-
+  
   1. bron 1
   2. bron 2
   3. ...
