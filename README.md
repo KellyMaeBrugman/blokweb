@@ -200,15 +200,20 @@ https://www.nbthieves.com
   <img src="readme-images/sc_eigen_4.png" width="375px" alt="Eigen pagina deel 4">
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+  Ik heb dit blok heel erg veel geleerd:
+  Door de lessen is er weer heel veel terug gekomen van vorig jaar en heb ik ook veel dingen erbij geleerd. 
+  Het was fijn om een website na te kunnen maken omdat je zo niet op de content hoeft te letten.
+  Dit zijn een aantal dingen die ik heb geleerd tijdens dit vak door de lessen en door de studentassistenten:
+  - Het toevoegen van een video met een thumbnail
+  - Het laten afspelen van een video door er op te klikken, en ook weer op pauze te zetten
+  - Het maken van een menu
+  - Het maken van een animatie die veranderd door er op te klikken
+  - Het maken van een dark mode
+  - het gebruik maken van nth-of-type om bepaalde dingen aan te spreken zonder classes te gebruiken
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Er waren heel erg veel dingen die ik lastig vond. Alle dingen hierboven waren ook niet gelukt al had ik niet de hulp gekregen van de docent, en van de twee studentassistenten. Ook mijn klasgenoten waren heel erg behulpzaam waardoor het soms voelde als een groepsproject omdat ik niet alles zelf heb geschreven. Maar ondanks dat ik niet alles zelf heb geschreven, kan ik het grootste deel wel uitleggen en ik snap wat er staat. En ik denk dat dit het belangrijkste van het vak was.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
 ## Bronnenlijst
