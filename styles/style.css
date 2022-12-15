@@ -240,6 +240,7 @@ main section a{
 
 main section ol li{	
 	text-align: center;
+	List-style-position: inside;
 }
 
 main section:last-of-type section{
