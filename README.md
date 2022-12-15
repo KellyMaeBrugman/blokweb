@@ -56,23 +56,18 @@ https://www.nbthieves.com
   #### Screenreader
   Wanneer de de screenreader aanzet krijg je als eerst dit in beeld te zien:
   <img src="readme-images/sc_screenreader_1.png" width="375px" alt="Screen reader melding">
+  En wanneer je hier overheen tabt ga je gelijk van de hele website af en gaat hij tabben naar andere dingen die ook in beeld zijn.
+  Dit is niet handig omdat je eerst op die knop moet klikken om verder te gaan in de website.
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Wanneer je met je pijltje naar beneden klikt dan gebeurt er een soort glitch. Hij doet namelijk alsof hij naar beneden wilt maar schiet gelijk daarna weer naarboven toe.
+  Verder gebeurt er helemaal niets als je gaat tabben zonder de screenreader aan.
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Hier hebben we in de eerste week nog niets mee gedaan.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Wanneer je de website op darkmode zet gebeurt er precies niks. Die is dus niet gemaakt. Dit is iets wat ik zou kunnen toevoegen om de website toegankelijker te maken.
 
 </details>
 
