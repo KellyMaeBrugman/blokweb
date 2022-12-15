@@ -148,32 +148,20 @@ https://www.nbthieves.com
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Door voor de tweede keer met de screenreader door de pagina heen te gaan ben ik achter een aantal dingen gekomen.
+  Bij het navigeren door de music pagina heen stopt hij bij elk visueel onderdeel. Hij noemt zelfs de streepjes op waar je langs komt, dit is natuurlijk niet heel erg handig.
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Iets wat mij hier heel erg opviel is dat je niet door het menu heen kan tabben. Hij skipt het volledig en je kunt ze niet selecteren. Dit is iets wat ik zeker wil gaan toevoegen want op deze manier maak je het een stuk toegankelijker.
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  <img src="readme-images/schock_test.jpeg" width="375px" alt="Schock test">
+  Tijdens het doen van de schocktest kwam ik heel eerlijk gezegd niet achter heel veel nieuwe dingen. Wel dat het irritant is als het gaat om navigeren maar dat is meer dan normaal denk ik dan maar. Je kan hier niet heel veel aan veranderen ben ik bang want je kunt de knoppen wel heel groot gaan maken maar dat heeft natuurlijk niet zoveel zin want dan ziet de hele website er niet meer uit en is de navigatie ook niet echt verantwoord meer.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  We hebben veel met brillen kunnen doen om te kijken wat er gebeurd als je visueel beperkt bent. En iets waar ik achter ben gekomen is dat het best slim is om een dark mode toe te voegen. dit om het contrast te vergroten en voor mensen die gevoelig zijn voor licht. Want de website van zichzelf is heel erg wit en fel, dus om die reden kun je het best wat donkerder maken.
 
 </details>
-
-
-
 
 
 ## Voortgang 3 (week 4)
@@ -189,7 +177,7 @@ https://www.nbthieves.com
   - Animatie in het menu
   - Dark mode
   - Hover op de button
-  - 
+  - Fixed header
 
   ### Verslag van meeting
   Na afloop kwam het er op neer dat ik goed opweg ben maar dat er nog een aantal dingen moeten gebeuren als het gaat om styling en toegankelijkheid.
