@@ -82,7 +82,7 @@ https://www.nbthieves.com
   <img src="readme-images/schets_video.png" width="375px" alt="Breakdownschets van de videopagina">
 
   ### de music pagina: 
-
+  <img src="readme-images/schets_music.png" width="375px" alt="Breakdownschets van de musicpagina">
 
 </details>
 
