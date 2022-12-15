@@ -238,6 +238,10 @@ main section a{
 	display: block;
 }
 
+main section ol{
+	padding-right: 3em;
+}
+
 main section ol li{	
 	text-align: center;
 	List-style-position: inside;
