@@ -25,6 +25,10 @@ summary {
 	--hr-color: rgb(0, 0, 0);
 }
 
+/* ************************** */
+/* Styling voor de dark mode */
+/*************************** */
+
 @media (prefers-color-scheme: dark) {
 	:root {
 	--color-text: rgb(255, 255, 255);
@@ -36,12 +40,37 @@ summary {
 	}
 }
 
+/* ************************** */
+/* Styling voor de hele body */
+/*************************** */
+
 body {
 	font-family: 'WoodfordBourne';
 	color: var(--color-text);
 	background-color: var(--background-color-body);
 	align-items: center
 }
+
+/* ************************** */
+/* Styling voor de states */
+/*************************** */
+
+main a:hover{
+	background-color: var(--background-color-hover);
+	color: var(--color-text-hover);
+	transition: 1s;
+	border-color: var(--background-color-hover);
+}
+
+main a:focus{
+	background-color: var(--background-color-hover);
+	color: var(--color-text-hover);
+	border-color: var(--background-color-hover);
+}
+
+/* ************************** */
+/* Styling voor de header */
+/*************************** */
 
 header {
 	background-color: var(--background-color-header);
@@ -61,14 +90,13 @@ header img {
 	margin-top: 1.5em;
 }
 
-nav ul {
-	transform: translateX(-300%);
-}
+/* ************************** */
+/* Styling voor het menu */
+/*************************** */
 
 header nav button {
 	display: grid;
 	place-items: center;
-	border-radius: 50%;
 	border: none;
 	margin-top: 3em;
 	margin-right: 2em;
@@ -82,6 +110,45 @@ header nav button span {
 	background-color: var(--color-text);
 	transition-duration: .5s;
 }
+
+header nav ul {
+	z-index: -666;
+	position: fixed;
+	top: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100vw;
+	height: 100vh;
+	left: 0;
+	margin: 0;
+	background-color: var(--background-color-header);
+	padding: 0;
+	transform: translateX(-100%);
+	transition: transform 1s;
+}
+
+header nav ul li {
+	list-style-type: none;
+	text-align: center;
+	padding: 0.5em;
+	font-size: 1.5em;
+}
+
+header nav ul li a{
+	text-decoration: none;
+	color: var(--color-text);
+}
+
+header nav.menu-open ul {
+	transform: translatex(0%);
+	transition-duration: 1s;
+}
+
+/* ************************** */
+/* Animatie voor de menu button */
+/*************************** */
 
 header nav button span:nth-of-type(1){
 	transform: translateY(-.4em);
@@ -107,66 +174,36 @@ header nav.menu-open button span:nth-of-type(3){
 	transform: rotate(135deg) scalex(1.25);
 }
 
-header nav ul {
-	z-index: -666;
-	position: fixed;
-	top: 0;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	width: 100vw;
-	height: 100vh;
-	left: 0;
-	margin: 0px;
-	background-color: var(--background-color-header);
-	padding: 0;
-	transform: translateX(-100%);
-	transition: transform 1s;
-}
-
-header nav ul li {
-	list-style-type: none;
-	text-align: center;
-	padding: 10px;
-	font-size: 23px;
-}
-
-header nav ul li a{
-	text-decoration: none;
-	color: var(--color-text);
-}
-
-header nav.menu-open ul {
-	transform: translatex(0%);
-	transition-duration: 1s;
-}
+/* ************************** */
+/* Styling voor de main */
+/*************************** */
 
 main{
 	margin-top: 10em;
 }
 
-/* main section button{
-	justify-content: center;
-	align-items: center;
-} */
-
-h1, h2, h3, h4{
+h1, h2, h3, h4, h5, h6{
 	text-align: center;
 }
 
 h1 {
-	font-size: 1.5rem;
+	font-size: 2em;
+	letter-spacing: .5em;
+	margin-bottom: 3em;
 }
 
 h2 {
-	font-size: 1rem;
-	padding: .5rem;
+	font-size: 2em;
+	padding: .5em;
 }
 
 h3 {
-	font-size: .8rem;
-	margin: 2rem;
+	font-size: .8em;
+	margin: 2em;
+}
+
+h5, h6{
+	font-size: 1em;
 }
 
 hr{
@@ -174,17 +211,18 @@ hr{
 	border-color: var(--hr-color);
 }
 
-main a:hover{
-	background-color: var(--background-color-hover);
-	color: var(--color-text-hover);
-	transition: 1s;
-	border-color: var(--background-color-hover);
+video {
+	width: 100%;
+}
+
+section {
+	margin: 3em
 }
 
 main img {
 	margin: auto;
 	display: block;
-	width: 15em;
+	width: 22em;
 }
 
 main section a{
@@ -195,8 +233,8 @@ main section a{
 	padding: 1em;
 	border-radius: .5em;
 	border: solid;
-	margin-left: 3em;
-	margin-right: 3em;
+	margin-left: 8em;
+	margin-right: 8em;
 	display: block;
 }
 
@@ -204,22 +242,16 @@ main section ol li{
 	text-align: center;
 }
 
-section {
-	margin: 3rem
-}
-
 main section:last-of-type section{
     display: flex;
     flex-flow: row wrap;
-    align-content: space-between;
     justify-content: center;
-    margin: 20px 0px 50px;
-    width: 100%;
+	margin: 1.25em 0em 3.5em 0em;
 }
 
 main section:last-of-type section a{
 	display: flex;
-	margin-bottom: 10px;
+	margin: .5em;
 }
 
 main section:last-of-type section a img{
@@ -230,13 +262,12 @@ main section:last-of-type section a img{
 }
 
 main section:last-of-type section a i {
-    margin-right: 10px;
+    margin-right: 0.3em;
 }
 
-
-video {
-	width: 100%;
-}
+/* ************************** */
+/* Styling voor de footer */
+/*************************** */
 
 footer section{
 	display: flex;
