@@ -31,7 +31,7 @@ https://www.nbthieves.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Music pagina Nothing But Thieves 
-  
+
   <img src="readme-images/sc1.png" width="375px" alt="Screenshot 1 van music pagina">
   <img src="readme-images/sc2.png" width="375px" alt="Screenshot 2 van music pagina">
 
@@ -54,10 +54,8 @@ https://www.nbthieves.com
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Wanneer de de screenreader aanzet krijg je als eerst dit in beeld te zien:
+  <img src="readme-images/sc_screenreader_1.png" width="375px" alt="Screen reader melding">
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
