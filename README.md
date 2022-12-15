@@ -221,9 +221,16 @@ https://www.nbthieves.com
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  1. Nina Vens
-  2. Eva Boogaard
-  3. Bahaa Salaymeh
-  4. Berry Nieskens
+  1. Nina Vens (studentassistente)
+  2. Eva Boogaard (studentassistente)
+  3. Bahaa Salaymeh (medestudent)
+  4. Berry Nieskens (docent)
+  5. Dark mode toevoegen - https://bnieskens.notion.site/Media-queries-5d2dfcf5a50d4df08353156efe040b6d
+  6. States toevoegen aan de buttons - https://www.w3schools.com/cssref/sel_hover.php
+  7. Lettertype toevoegen - https://bnieskens.notion.site/Typografie-f3f8c384e5a64837a5a94b30428a1988
+  8. De header fixed maken - https://bnieskens.notion.site/Position-static-fixed-sticky-f750e45cb33648c5b50de18b9a63010a
+  9. Items op een bepaalde plek zetten - https://bnieskens.notion.site/Alignment-5703625f92f04122888efa248b49936c
+  10. Menu toevoegen - https://codepen.io/shooft/pen/GRxXboQ
+  11. Animatie button - https://codepen.io/shooft/pen/dymRMBZ
 
 </details>
