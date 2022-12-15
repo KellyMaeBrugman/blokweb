@@ -111,12 +111,13 @@ header nav button span {
 	transition-duration: .5s;
 }
 
+/* Dit deel is deels geschreven door Bahaa Salaymeh */
 header nav ul {
-	z-index: -666;
+	z-index: -666; /* Door Bahaa geschreven */
 	position: fixed;
 	top: 0;
 	display: flex;
-	flex-direction: column;
+	flex-direction: column; /* Door Bahaa geschreven */
 	align-items: center;
 	justify-content: center;
 	width: 100vw;
@@ -125,7 +126,7 @@ header nav ul {
 	margin: 0;
 	background-color: var(--background-color-header);
 	padding: 0;
-	transform: translateX(-100%);
+	transform: translateX(-100%); /* Door Bahaa geschreven */
 	transition: transform 1s;
 }
 
@@ -141,8 +142,9 @@ header nav ul li a{
 	color: var(--color-text);
 }
 
+/* Dit deel is deels geschreven door Bahaa Salaymeh */
 header nav.menu-open ul {
-	transform: translatex(0%);
+	transform: translatex(0%); /* Door Bahaa geschreven */
 	transition-duration: 1s;
 }
 
@@ -242,14 +244,16 @@ main section ol{
 	padding-right: 3em;
 }
 
+/* Dit deel is deels geschreven door Nina Vens */
 main section ol li{	
 	text-align: center;
-	List-style-position: inside;
+	List-style-position: inside; /* Door Nina geschreven */
 }
 
+/* Dit deel is deels geschreven door Bahaa Salaymeh */
 main section:last-of-type section{
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: row wrap; /* Door Bahaa geschreven */
     justify-content: center;
 	margin: 1.25em 0em 3.5em 0em;
 }
@@ -267,7 +271,7 @@ main section:last-of-type section a img{
 }
 
 main section:last-of-type section a i {
-    margin-right: 0.3em;
+    margin-right: 0.3em; /* Door Bahaa geschreven */
 }
 
 /* ************************** */
@@ -296,6 +300,6 @@ footer section:nth-of-type(2){
 footer section:nth-of-type(3){
 	background-color: var(--background-color-header);
 	margin: 0;
-	font-size: .6rem;
+	font-size: .6em;
 	padding-bottom: 4em;
 }
