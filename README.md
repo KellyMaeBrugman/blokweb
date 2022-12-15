@@ -214,13 +214,9 @@ https://www.nbthieves.com
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Bahaa Salaymeh
-  Nina Vens
-  Eva Boogaard
-  Berry Nieskens
-
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Nina Vens
+  2. Eva Boogaard
+  3. Bahaa Salaymeh
+  4. Berry Nieskens
 
 </details>
