@@ -194,8 +194,10 @@ https://www.nbthieves.com
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
-
+  <img src="readme-images/sc_eigen_1.png" width="375px" alt="Eigen pagina deel 1">
+  <img src="readme-images/sc_eigen_2.png" width="375px" alt="Eigen pagina deel 2">
+  <img src="readme-images/sc_eigen_3.png" width="375px" alt="Eigen pagina deel 3">
+  <img src="readme-images/sc_eigen_4.png" width="375px" alt="Eigen pagina deel 4">
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
